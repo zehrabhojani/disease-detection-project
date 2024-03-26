@@ -1,0 +1,38 @@
+.bgcolor{
+    background-color: white;
+    
+    /* background-color: rgb(235, 227, 242); */
+
+}
+.side-menu{
+    margin-right:90%;
+    padding:10px;
+    margin-top: 60px;
+    
+    box-shadow: 0 1px 2px 0  ;
+     transition: 0.3s; 
+     
+}
+.side-menu2{
+    margin-right:90%;
+    padding:10px;
+    margin-top: 4px;
+    background-color: white;
+    box-shadow: 0 0px 2px 0 ;
+     transition: 0.3s;
+   
+
+}
+.side-menu1{
+    border-style:solid ;
+}
+
+.navbar{
+     background-color: rgb(137, 38, 224);
+     text-align: center;
+     width:100%;
+     height: 70px;
+     position: absolute;
+     top:0;
+
+}
